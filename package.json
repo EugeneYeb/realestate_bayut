@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "realestate_bayutapi",
+=======
+  "name": "realestate",
+>>>>>>> e100996793cde63b858a8cf0f1fb5e2f73665c2c
   "private": true,
   "scripts": {
     "dev": "next dev",
